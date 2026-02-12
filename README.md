@@ -1,16 +1,16 @@
- #Brain Tumor Detection using Transfer Learning (MobileNetV2)
- ##Project Overview
+ # Brain Tumor Detection using Transfer Learning (MobileNetV2)
+ ## Project Overview
 
 This project is a Deep Learning-based medical image classification system that detects the presence of brain tumors from MRI images.
 
 The model uses MobileNetV2 (pretrained on ImageNet) with transfer learning and is deployed as a live web application on Hugging Face.
 
- ##Live Demo
+ ## Live Demo
 
-###Try the app here:
+### Try the app here:
 (https://huggingface.co/spaces/ben-ds/brain_tumour_detection)
 
-##Tech Stack
+## Tech Stack
 
 Python
 
@@ -43,7 +43,7 @@ Accuracy Achieved:
     Vaidation accuracy:91
     Test accuracy :86
     
-##Workflow
+## Workflow
 
 Data preprocessing and image resizing
 
